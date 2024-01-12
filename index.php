@@ -39,7 +39,7 @@ $parag = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo mollitia 
     echo $paragrafocensurato
    ?>
   <br>
-   <h1>lunghezza paragrafo<?php echo strlen($paragrafocensurato) ?></h1>
+   <h1>lunghezza paragrafo <?php echo strlen($paragrafocensurato) ?></h1>
 </h1>
 
 
